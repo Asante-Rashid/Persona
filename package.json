@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Asante-Rashid/Persona/issues"
   },
-  "homepage": "https://github.com/Asante-Rashid/Persona#readme"
+  "homepage": "https://github.com/Asante-Rashid/Persona#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
